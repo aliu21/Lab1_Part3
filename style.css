@@ -1,0 +1,74 @@
+h2 {
+  font-size: 200%;
+}
+
+ol li {
+  font-size: 18px;
+  color: blue;
+  background-color: transparent;
+}
+
+a:hover {
+  background-color: transparent;
+  color: purple
+}
+
+nav a {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+nav ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+nav li {
+  background-color: pink;
+  color: black;
+  display: inline;
+  margin: 50px;
+  padding: 5px;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+  width: 90%;
+  margin: auto;
+}
+
+table, tr, th, td {
+  border-collapse: collapse;
+  border: 2px solid black;
+  text-align: center;
+}
+
+th {
+  font-size: 22px;
+  padding: 10px 50px;
+}
+
+td {
+  font-size: 18px;
+}
+
+header {
+  text-align: center;
+  font-size: 200%;
+  background-image: url("https://www.publicdomainpictures.net/pictures/250000/nahled/dachshund-dog-wallpaper-background.jpg");
+  height: 300px;
+}
+
+#intro {
+  background-color: transparent;
+  color: blue;
+  font-size: 120%;
+}
+
+.pagetitle {
+  color: black;
+  background-color: pink;
+  padding: 25px;
+  margin-bottom: 75px;
+}
